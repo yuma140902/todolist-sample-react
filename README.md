@@ -1,10 +1,6 @@
 # Redux Sample
 
-Redux、Reduxのサンプル
-
-主に[Redux入門【ダイジェスト版】10分で理解するReduxの基礎 - Qiita](https://qiita.com/kitagawamac/items/49a1f03445b19cf407b7#1-single-source-of-truth)と[ベストな手法は？ Reactのステート管理方法まとめ - ICS MEDIA](https://ics.media/entry/200409/?utm_source=pocket_mylist)を参考にした。ディレクトリ構成はRe-ducksパターン
-
-## 他のサンプル
+Reduxのサンプル
 
 - Redux Toolkit版
   - https://github.com/yuma140902/todolist-sample-react-redux-toolkit
